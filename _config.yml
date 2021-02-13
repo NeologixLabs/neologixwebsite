@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+baseurl: "/neologixwebsite" # the subpath of your site, e.g. /blog
 
 title      : Neologix Labs
 email      : jeadi@neologixlabs.com #this is also the email contact forms will go to
