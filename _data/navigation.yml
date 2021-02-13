@@ -5,14 +5,14 @@ nav:
   - title: "Portfolio"
     section: portfolio
     
-  - title: "About"
-    section: timeline
+#   - title: "About"
+#     section: about
 
-  - title: "Team"
-    section: team
+  - title: "About"
+    section: about
 
   - title: "Contact"
     section: contact
 
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
+  # - title: "Theme Source"
+  #   url: https://github.com/raviriley/agency-jekyll-theme/
