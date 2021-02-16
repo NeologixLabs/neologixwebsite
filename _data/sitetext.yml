@@ -6,7 +6,7 @@ header:
 
 services:
     title: "Services"
-    text: "Neologix Labs performs the following services however is not limited to these three."
+    text: "We can make most things happen, but we specialize in the following:"
     section: services
     list:
       - title: "Makerspace Facilitation"
@@ -81,7 +81,7 @@ portfolio:
     
 team:
     title: "About"
-    text: " Jeadi Vilchis (pronounced hiya-thee veal'cheese) is proud to be born and raised (and with his spirit, always) in East Oakland, California. Jeadi founded Neologix labs in 2015 with the goal of providing"
+    text: "Jeadi Vilchis (pronounced ‘hiya!-thee’ ‘veel cheese’) is proud to be born and raised in East Oakland, California. Jeadi founded Neologix labs in 2015 with the goal of providing fun and engaging engineering and design experiences for young people, especially girls of color, from places like Oakland."
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: about
     people:
