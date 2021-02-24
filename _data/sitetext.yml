@@ -9,7 +9,7 @@ services:
     text: "We can make most things happen, but we specialize in the following:"
     section: services
     list:
-      - title: "Makerspace Facilitation"
+      - title: "Makerspaces"
         desc: "Mastery of all aspects of setting up and managing an effective makerspace. Can focus the space to whatever the highest needs you want addressed- digital manufacturing, budget, or any other combination of needs."
         icon: fas fa-chalkboard #find more at https://fontawesome.com/icons
       - title: "Custom Fabrication"
