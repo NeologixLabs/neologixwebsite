@@ -12,7 +12,7 @@ services:
       - title: "Makerspace Facilitation"
         desc: "Mastery of all aspects of setting up and managing an effective makerspace. Can focus the space to whatever the highest needs you want addressed- digital manufacturing, budget, or any other combination of needs."
         icon: fas fa-chalkboard #find more at https://fontawesome.com/icons
-      - title: "Custom Making"
+      - title: "Custom Fabrication"
         desc: "Creation of custom projects from ideation, to 2D/3D design, to manufacturing and finishing using laser cutters, CNC Routers, 3D Printers, Vinyl Cutters, LED/Electronics etc. Can permanently mount projects or safely package and ship to anywhere in the world."
         icon: fas fa-cube       
       - title: Education 
